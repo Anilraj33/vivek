@@ -7,4 +7,7 @@ this
 is anil
 ```
 by VIvek
+by anil<hr/>
 this is branch try
+
+# i have added both the changes. enjoy. but why is this not working in terminal but in bash
